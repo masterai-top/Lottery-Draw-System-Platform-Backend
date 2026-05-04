@@ -1,5 +1,5 @@
 🔥 Commercial Texas Hold’em Poker Platform | Ready to Launch | Club + AI + Tournament | High Profit System
-# 🎰 德州扑克完整运营级源码 | Texas Hold'em Complete Game Source Code| 德州扑克完整解决方案 
+# 🎰 德州源码 | 德州扑克完整运营级源码 | Texas Hold'em Complete Game Source Code| 德州扑克完整解决方案 
 
 > **线上成功运营产品 | 6种玩法+10+运营活动 | 支持iOS/Google Play上架**
 
@@ -90,7 +90,7 @@ Including multiplayer real-time engine, AI system, club & tournament system
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 + 详细报价**
+👉 **联系我获取演示站**
 
 ---
 ## ✨ Key Features 
